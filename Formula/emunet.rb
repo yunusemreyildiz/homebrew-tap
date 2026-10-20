@@ -1,8 +1,8 @@
 class Emunet < Formula
   desc "Keep Android emulator, iOS Simulator and Mac internet working across VPN changes"
   homepage "https://github.com/yunusemreyildiz/emunet"
-  url "https://github.com/yunusemreyildiz/emunet/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "0f5d93ea33dad17ea0b745cda704188d95bac7ee1f7d5735204cde17e338be62"
+  url "https://github.com/yunusemreyildiz/emunet/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "795ab934b2e29f768540d7ef8ee592a25fe48e7d482e7388f24ad8dea9b21ef4"
   license "MIT"
 
   depends_on :macos
